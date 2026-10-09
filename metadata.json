@@ -1,0 +1,6 @@
+{
+  "name": "ReelNotch - Reel Counter & Dynamic Notch HUD",
+  "description": "Smart short-form video counter and watch timer for Instagram, Facebook, and Snapchat Reels with an interactive Dynamic Notch HUD, interest profiling, and curated suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
